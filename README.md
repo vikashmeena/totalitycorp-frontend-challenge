@@ -83,4 +83,3 @@ npm start
 Open your web browser and access the application at http://localhost:3000.
 
 You can customize the product data, images, and further enhance the functionality and styling to meet your specific project requirements.
-
